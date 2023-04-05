@@ -1,5 +1,9 @@
 # dart_basics
 
+# ALL THE CONCEPTS FILE IS LOCATED IN DART_CONCEPTS FOLDER IN LIB SECTION
+
+# look folder structure lib/dart_concepts/course_files
+
 A new Flutter project.
 
 ## Getting Started
