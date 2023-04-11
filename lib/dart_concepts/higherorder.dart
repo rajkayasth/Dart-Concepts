@@ -10,7 +10,7 @@ void main() {
 
   ///Example Two: reciving Function from Higher-Order Function
   var myFunc = taskToPerform();
-  print(myFunc(10));
+  print(myFunc(10));  
 }
 
 void someOtherFunction(String msg, Function myFunction) {
